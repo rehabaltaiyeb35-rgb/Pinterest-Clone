@@ -20,7 +20,7 @@ Make sure you have the following installed on your machine:
 
 * ## ⚙️ Installation & Setup
 
-<Sequence>
+<sequence>
 
 {/* Step-by-step setup procedure for a mobile React Native repo where execution sequence prevents runtime errors. */}
 
@@ -124,10 +124,8 @@ const styles = StyleSheet.create({
   title: { fontSize: 14, fontWeight: 'bold', marginTop: 4 },
 });
 
-## Contributors
+```
+## 👥 Contributor Credits
 
-Thanks to all the people who have contributed to this project!
+|:rehab altaiyeb| :main writer| : https://github.com/rehabaltaiyeb35-rgb|
 
-<a href="https://github.com/https://github.com/rehabaltaiyeb35-rgb/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=[your-username/your-repo](https://github.com/rehabaltaiyeb35-rgb)" />
-</a>
